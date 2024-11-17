@@ -155,25 +155,18 @@ def main():
 
     EPOCHS = 15
 
-    accuracy_arr = []
-
     # finetune for 15 epochs
     for epoch in range(EPOCHS):
         print(f"Epoch {epoch + 1}/{EPOCHS}")
         train_one_epoch(model, criterion, optimizer, data_t, "cpu", epoch, 1)
         calibrate_model(model)
         
-        # evaluate model after each epoch
-        tmp_accuracy = eval(model, data)
-        accuracy_arr.append(tmp_accuracy)
+    # evaluate model after each epoch
+    final_accuracy = eval(model, data)
 
     # print accuracy
     print('\n\nAccuracy before retraining: %.4f %%' % (100 * initial_accuracy))
-
-    # accuracy after retraining for each epoch
-    print("\n\nAccuracy after retraining for each epoch:")
-    for epoch, acc in enumerate(accuracy_arr, start=1):
-        print(f"Epoch {epoch}: {acc:.4f} %")
+    print('\n\nAccuracy after retraining: %.4f %%' % (100 * final_accuracy))
 
 
 if __name__ == "__main__":
