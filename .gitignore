@@ -12,7 +12,6 @@
 *.pyc
 *_pb2.py
 *.bak
-*.log
 
 '=0.7.0'
 __pycache__/

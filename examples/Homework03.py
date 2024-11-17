@@ -146,7 +146,7 @@ def main():
     calibrate_model(model, data_t)
 
     # evaluate the model
-    initial_accuracy = eval(model, data)
+    # initial_accuracy = eval(model, data)
 
     # finetune the model
     criterion = nn.CrossEntropyLoss()
@@ -155,17 +155,32 @@ def main():
 
     EPOCHS = 15
 
-    # finetune for 15 epochs
+    # load model if necessary
+    load_epoch = 2
+    model.load_state_dict(torch.load(f"./saved/retrained_model_epoch_{load_epoch}.pth"))
+    calibrate_model(model, data_t)
+
+    # finetune the model for one epoch based on data_t subset
     for epoch in range(EPOCHS):
-        print(f"Epoch {epoch + 1}/{EPOCHS}")
-        train_one_epoch(model, criterion, optimizer, data_t, "cpu", epoch, 1)
-        calibrate_model(model)
+        EPOCH_NUM = epoch + 1
+        if EPOCH_NUM > load_epoch:
+            print(f"Epoch {epoch + 1}/{EPOCHS}")
+            train_one_epoch(model, criterion, optimizer, data_t, "cpu", EPOCH_NUM, 1)
+            calibrate_model(model, data_t)
+
+            # Save the model after each epoch
+            model_path = f"./saved/retrained_model_epoch_{EPOCH_NUM}.pth"
+            torch.save(model.state_dict(), model_path)
+            print(f"Model saved to {model_path} after epoch {EPOCH_NUM}")
+        else:
+            print(f"Skipping epoch {EPOCH_NUM} as pretrained model exists")
+
         
     # evaluate model after each epoch
     final_accuracy = eval(model, data)
 
     # print accuracy
-    print('\n\nAccuracy before retraining: %.4f %%' % (100 * initial_accuracy))
+    # print('\n\nAccuracy before retraining: %.4f %%' % (100 * initial_accuracy))
     print('\n\nAccuracy after retraining: %.4f %%' % (100 * final_accuracy))
 
 
