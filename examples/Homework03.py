@@ -156,7 +156,7 @@ def main():
     EPOCHS = 15
 
     # load model if necessary
-    load_epoch = 2
+    load_epoch = 4
     model.load_state_dict(torch.load(f"./saved/retrained_model_epoch_{load_epoch}.pth"))
     calibrate_model(model, data_t)
 

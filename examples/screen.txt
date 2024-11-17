@@ -1,0 +1,1 @@
+screen -L -Logfile output.log -dm bash -c "python3 /workspace/adapt/examples/Homework03.py"

@@ -1,0 +1,630 @@
+python3: can't open file '/worspace/adapt/examples/Homework03.py': [Errno 2] No such file or directory
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /root/.cache/torch_extensions/PyInit_conv2d_SPR12_44/build.ninja...
+Building extension module PyInit_conv2d_SPR12_44...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Using /root/.cache/torch_extensions as PyTorch extensions root...
+No modifications detected for re-loaded extension module PyInit_conv2d_SPR12_44, skipping build step...
+Loading extension module PyInit_conv2d_SPR12_44...
+Files already downloaded and verified
+Files already downloaded and verified
+  0%|                                                     | 0/2 [00:00<?, ?it/s] 50%|██████████████████████▌                      | 1/2 [00:01<00:01,  1.29s/it]100%|█████████████████████████████████████████████| 2/2 [00:04<00:00,  2.63s/it]100%|█████████████████████████████████████████████| 2/2 [00:08<00:00,  4.21s/it]
+WARNING: Logging before flag parsing goes to stderr.
+W1117 23:40:27.042889 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043103 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043179 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043229 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043290 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043336 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043397 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043443 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043502 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043553 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043616 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043666 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043718 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043771 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043840 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043883 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043932 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.043980 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044033 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044088 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044142 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044193 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044250 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044301 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044359 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044403 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044453 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044502 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044561 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044603 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044653 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044697 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044757 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044804 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044853 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044898 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044949 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.044993 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045044 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045094 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045144 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045193 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045242 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045291 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045342 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045403 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045459 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045505 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045554 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045601 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045655 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045705 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045762 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045806 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045857 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045907 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.045957 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046007 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046063 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046105 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046160 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046205 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046256 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046305 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046357 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046404 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046457 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046501 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046554 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046602 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046653 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046702 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:40:27.046896 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+W1117 23:40:27.046963 129556405622592 tensor_quantizer.py:238] Call .cuda() if running on GPU after loading calibrated amax.
+conv1.quantizer                         : TensorQuantizer(8bit per-tensor amax=2.1255 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.047145 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+conv1.quantizer_w                       : TensorQuantizer(8bit per-tensor amax=0.1418 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.047317 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.0.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.6832 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.047465 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.0.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0555 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.047622 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.0.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.3332 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.047770 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.0.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0327 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.047933 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.1.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.6097 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.048110 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.1.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0395 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.048264 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.1.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2994 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.048411 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.1.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0345 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.048560 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.2.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.5812 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.048704 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.2.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0354 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.048861 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.2.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2220 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.049004 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.2.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0253 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.049147 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.5386 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.049290 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0287 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.049444 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2193 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.049595 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0285 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.049749 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.downsample.0.quantizer         : TensorQuantizer(8bit per-tensor amax=0.5386 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.049887 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.downsample.0.quantizer_w       : TensorQuantizer(8bit per-tensor amax=0.0550 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.050036 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.1.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.3359 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.050186 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.1.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0233 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.050332 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.1.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1686 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.050477 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.1.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0221 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.050645 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.2.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.3525 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.050790 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.2.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0241 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.050935 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.2.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1765 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.051086 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.2.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0221 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.051245 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.3.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.3890 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.051401 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.3.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0220 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.051540 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.3.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2230 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.051683 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.3.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0182 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.051831 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.5036 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.051986 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0171 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.052139 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2100 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.052283 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0100 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.052428 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.downsample.0.quantizer         : TensorQuantizer(8bit per-tensor amax=0.5036 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.052567 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.downsample.0.quantizer_w       : TensorQuantizer(8bit per-tensor amax=0.0216 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.052722 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.1.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2429 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.052859 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.1.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0054 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.053011 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.1.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1393 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.053162 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.1.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0051 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.053325 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.2.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2398 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.053493 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.2.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0067 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.053640 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.2.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1325 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.053783 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.2.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0060 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.053926 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.3.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2584 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.054072 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.3.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0050 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.054224 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.3.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1204 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.054365 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.3.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0049 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.054517 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.4.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.3177 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.054660 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.4.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0036 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.054805 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.4.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1097 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.054945 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.4.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0040 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.055083 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.5.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.3812 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.055226 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.5.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0035 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.055372 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.5.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1306 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.055514 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.5.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0047 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.055670 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.5006 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.055850 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0038 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.055992 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1752 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.056144 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0049 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.056291 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.downsample.0.quantizer         : TensorQuantizer(8bit per-tensor amax=0.5006 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.056436 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.downsample.0.quantizer_w       : TensorQuantizer(8bit per-tensor amax=0.0203 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.056582 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.1.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.7783 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.056727 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.1.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0024 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.056867 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.1.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2372 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.057001 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.1.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0060 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.057137 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.2.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=1.1760 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.057269 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.2.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0020 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.057420 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.2.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2061 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.057557 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.2.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0058 calibrator=HistogramCalibrator quant)
+W1117 23:40:27.222029 129556405622592 tensor_quantizer.py:402] conv1.quantizer: Overwriting amax.
+W1117 23:40:27.222327 129556405622592 tensor_quantizer.py:402] conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.222981 129556405622592 tensor_quantizer.py:402] layer1.0.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.223149 129556405622592 tensor_quantizer.py:402] layer1.0.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.223565 129556405622592 tensor_quantizer.py:402] layer1.0.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.223710 129556405622592 tensor_quantizer.py:402] layer1.0.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.224135 129556405622592 tensor_quantizer.py:402] layer1.1.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.224281 129556405622592 tensor_quantizer.py:402] layer1.1.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.224679 129556405622592 tensor_quantizer.py:402] layer1.1.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.224824 129556405622592 tensor_quantizer.py:402] layer1.1.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.225243 129556405622592 tensor_quantizer.py:402] layer1.2.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.225397 129556405622592 tensor_quantizer.py:402] layer1.2.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.225807 129556405622592 tensor_quantizer.py:402] layer1.2.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.225954 129556405622592 tensor_quantizer.py:402] layer1.2.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.226499 129556405622592 tensor_quantizer.py:402] layer2.0.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.226644 129556405622592 tensor_quantizer.py:402] layer2.0.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.227126 129556405622592 tensor_quantizer.py:402] layer2.0.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.227275 129556405622592 tensor_quantizer.py:402] layer2.0.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.227627 129556405622592 tensor_quantizer.py:402] layer2.0.downsample.0.quantizer: Overwriting amax.
+W1117 23:40:27.227761 129556405622592 tensor_quantizer.py:402] layer2.0.downsample.0.quantizer_w: Overwriting amax.
+W1117 23:40:27.228216 129556405622592 tensor_quantizer.py:402] layer2.1.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.228364 129556405622592 tensor_quantizer.py:402] layer2.1.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.228832 129556405622592 tensor_quantizer.py:402] layer2.1.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.228976 129556405622592 tensor_quantizer.py:402] layer2.1.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.229548 129556405622592 tensor_quantizer.py:402] layer2.2.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.229705 129556405622592 tensor_quantizer.py:402] layer2.2.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.230165 129556405622592 tensor_quantizer.py:402] layer2.2.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.230308 129556405622592 tensor_quantizer.py:402] layer2.2.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.230774 129556405622592 tensor_quantizer.py:402] layer2.3.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.230947 129556405622592 tensor_quantizer.py:402] layer2.3.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.231434 129556405622592 tensor_quantizer.py:402] layer2.3.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.231582 129556405622592 tensor_quantizer.py:402] layer2.3.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.232581 129556405622592 tensor_quantizer.py:402] layer3.0.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.232768 129556405622592 tensor_quantizer.py:402] layer3.0.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.233630 129556405622592 tensor_quantizer.py:402] layer3.0.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.233826 129556405622592 tensor_quantizer.py:402] layer3.0.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.234066 129556405622592 tensor_quantizer.py:402] layer3.0.downsample.0.quantizer: Overwriting amax.
+W1117 23:40:27.234162 129556405622592 tensor_quantizer.py:402] layer3.0.downsample.0.quantizer_w: Overwriting amax.
+W1117 23:40:27.234694 129556405622592 tensor_quantizer.py:402] layer3.1.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.234798 129556405622592 tensor_quantizer.py:402] layer3.1.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.235315 129556405622592 tensor_quantizer.py:402] layer3.1.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.235418 129556405622592 tensor_quantizer.py:402] layer3.1.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.235953 129556405622592 tensor_quantizer.py:402] layer3.2.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.236055 129556405622592 tensor_quantizer.py:402] layer3.2.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.236557 129556405622592 tensor_quantizer.py:402] layer3.2.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.236659 129556405622592 tensor_quantizer.py:402] layer3.2.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.237228 129556405622592 tensor_quantizer.py:402] layer3.3.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.237334 129556405622592 tensor_quantizer.py:402] layer3.3.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.237862 129556405622592 tensor_quantizer.py:402] layer3.3.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.237964 129556405622592 tensor_quantizer.py:402] layer3.3.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.238486 129556405622592 tensor_quantizer.py:402] layer3.4.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.238590 129556405622592 tensor_quantizer.py:402] layer3.4.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.239125 129556405622592 tensor_quantizer.py:402] layer3.4.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.239239 129556405622592 tensor_quantizer.py:402] layer3.4.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.239761 129556405622592 tensor_quantizer.py:402] layer3.5.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.239866 129556405622592 tensor_quantizer.py:402] layer3.5.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.240380 129556405622592 tensor_quantizer.py:402] layer3.5.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.240480 129556405622592 tensor_quantizer.py:402] layer3.5.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.241317 129556405622592 tensor_quantizer.py:402] layer4.0.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.241438 129556405622592 tensor_quantizer.py:402] layer4.0.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.242812 129556405622592 tensor_quantizer.py:402] layer4.0.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.242917 129556405622592 tensor_quantizer.py:402] layer4.0.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.243209 129556405622592 tensor_quantizer.py:402] layer4.0.downsample.0.quantizer: Overwriting amax.
+W1117 23:40:27.243309 129556405622592 tensor_quantizer.py:402] layer4.0.downsample.0.quantizer_w: Overwriting amax.
+W1117 23:40:27.244690 129556405622592 tensor_quantizer.py:402] layer4.1.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.244792 129556405622592 tensor_quantizer.py:402] layer4.1.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.246547 129556405622592 tensor_quantizer.py:402] layer4.1.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.246732 129556405622592 tensor_quantizer.py:402] layer4.1.conv2.quantizer_w: Overwriting amax.
+W1117 23:40:27.248765 129556405622592 tensor_quantizer.py:402] layer4.2.conv1.quantizer: Overwriting amax.
+W1117 23:40:27.248962 129556405622592 tensor_quantizer.py:402] layer4.2.conv1.quantizer_w: Overwriting amax.
+W1117 23:40:27.250906 129556405622592 tensor_quantizer.py:402] layer4.2.conv2.quantizer: Overwriting amax.
+W1117 23:40:27.251081 129556405622592 tensor_quantizer.py:402] layer4.2.conv2.quantizer_w: Overwriting amax.
+  0%|                                                     | 0/2 [00:00<?, ?it/s] 50%|██████████████████████▌                      | 1/2 [00:24<00:24, 24.20s/it]100%|█████████████████████████████████████████████| 2/2 [00:48<00:00, 24.20s/it]100%|█████████████████████████████████████████████| 2/2 [01:13<00:00, 36.55s/it]
+W1117 23:41:40.352841 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.352965 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353033 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353081 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353135 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353179 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353234 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353278 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353335 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353391 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353445 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353488 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353539 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353583 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353634 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353675 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353724 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353766 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353815 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353856 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353905 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353946 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.353995 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354035 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354083 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354123 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354171 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354212 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354264 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354305 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354353 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354394 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354446 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354486 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354535 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354576 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354624 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354664 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354714 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354755 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354804 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354845 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354895 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.354933 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355011 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355104 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355181 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355254 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355311 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355353 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355405 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355445 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355496 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355537 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355586 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355627 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355677 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355717 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355768 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355808 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355857 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355897 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355947 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.355987 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.356036 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.356076 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.356126 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.356167 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.356217 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.356257 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.356306 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.356346 129556405622592 tensor_quantizer.py:173] Disable HistogramCalibrator
+W1117 23:41:40.356532 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+conv1.quantizer                         : TensorQuantizer(8bit per-tensor amax=2.1255 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.356728 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+conv1.quantizer_w                       : TensorQuantizer(8bit per-tensor amax=0.1418 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.356896 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.0.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.6240 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.357042 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.0.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0555 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.357185 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.0.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2977 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.357325 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.0.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0327 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.357529 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.1.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.5548 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.357697 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.1.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0395 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.357843 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.1.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2615 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.357979 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.1.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0345 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.358119 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.2.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.5212 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.358256 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.2.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0354 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.358401 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.2.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2018 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.358537 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer1.2.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0252 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.358679 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.4876 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.358814 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0287 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.358954 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2022 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.359087 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0285 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.359226 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.downsample.0.quantizer         : TensorQuantizer(8bit per-tensor amax=0.4876 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.359361 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.0.downsample.0.quantizer_w       : TensorQuantizer(8bit per-tensor amax=0.0550 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.359501 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.1.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.3059 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.359638 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.1.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0233 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.359776 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.1.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1504 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.359908 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.1.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0221 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.360060 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.2.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.3175 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.360215 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.2.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0241 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.360360 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.2.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1540 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.360494 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.2.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0222 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.360640 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.3.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.3462 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.360775 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.3.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0220 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.360913 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.3.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1914 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.361046 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer2.3.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0182 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.361191 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.4209 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.361327 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0171 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.361478 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1842 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.361611 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0100 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.361749 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.downsample.0.quantizer         : TensorQuantizer(8bit per-tensor amax=0.4209 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.361881 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.0.downsample.0.quantizer_w       : TensorQuantizer(8bit per-tensor amax=0.0216 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.362017 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.1.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2165 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.362147 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.1.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0054 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.362280 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.1.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1198 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.362409 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.1.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0051 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.362565 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.2.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2132 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.362704 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.2.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0067 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.362842 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.2.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1166 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.362973 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.2.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0059 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.363121 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.3.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2320 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.363277 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.3.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0050 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.363417 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.3.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1082 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.363547 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.3.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0049 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.363681 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.4.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2882 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.363808 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.4.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0036 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.363940 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.4.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.0953 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.364071 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.4.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0040 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.364202 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.5.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.3501 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.364330 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.5.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0035 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.364461 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.5.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1115 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.364587 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer3.5.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0047 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.364722 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.4589 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.364865 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0038 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.365019 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.1674 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.365150 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0049 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.365284 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.downsample.0.quantizer         : TensorQuantizer(8bit per-tensor amax=0.4589 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.365442 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.0.downsample.0.quantizer_w       : TensorQuantizer(8bit per-tensor amax=0.0203 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.365587 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.1.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=0.7551 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.365718 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.1.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0024 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.365852 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.1.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2075 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.365982 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.1.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0060 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.366116 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.2.conv1.quantizer                : TensorQuantizer(8bit per-tensor amax=1.1392 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.366244 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.2.conv1.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0020 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.366377 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.2.conv2.quantizer                : TensorQuantizer(8bit per-tensor amax=0.2001 calibrator=HistogramCalibrator quant)
+W1117 23:41:40.366506 129556405622592 tensor_quantizer.py:237] Load calibrated amax, shape=torch.Size([]).
+layer4.2.conv2.quantizer_w              : TensorQuantizer(8bit per-tensor amax=0.0058 calibrator=HistogramCalibrator quant)
+Skipping epoch 1 as pretrained model exists
+Skipping epoch 2 as pretrained model exists
+Skipping epoch 3 as pretrained model exists
+Skipping epoch 4 as pretrained model exists
+Epoch 5/15
+Epoch: [5]  [ 0/40]  eta: 0:24:29  lr: 0.0001  img/s: 3.48532901779178  loss: 0.1968 (0.1968)  acc1: 94.5312 (94.5312)  acc5: 100.0000 (100.0000)  time: 36.7465  data: 0.0212
+Epoch: [5]  [ 1/40]  eta: 0:23:50  lr: 0.0001  img/s: 3.499284755415031  loss: 0.1713 (0.1840)  acc1: 94.5312 (94.9219)  acc5: 100.0000 (100.0000)  time: 36.6733  data: 0.0212
+Epoch: [5]  [ 2/40]  eta: 0:23:13  lr: 0.0001  img/s: 3.4964498658251775  loss: 0.1713 (0.1512)  acc1: 95.3125 (95.8333)  acc5: 100.0000 (100.0000)  time: 36.6588  data: 0.0212
