@@ -108,8 +108,6 @@ def main():
     threads = num_cores * 2 # two threads are available on github codespaces per core
     torch.set_num_threads(threads)
 
-    torch.set_num_threads(threads)
-
     # maybe better performance
     # Set environment variables for performance tuning
     os.environ["OMP_PLACES"] = "cores"
@@ -156,9 +154,10 @@ def main():
     EPOCHS = 15
 
     # load model if necessary
-    load_epoch = 4
-    model.load_state_dict(torch.load(f"./saved/retrained_model_epoch_{load_epoch}.pth"))
-    calibrate_model(model, data_t)
+    load_epoch = 6
+    if load_epoch > 0:
+        model.load_state_dict(torch.load(f"./saved/retrained_model_epoch_{load_epoch}.pth"))
+        calibrate_model(model, data_t)
 
     # finetune the model for one epoch based on data_t subset
     for epoch in range(EPOCHS):
